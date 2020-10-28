@@ -1,0 +1,13 @@
+.container {
+    background-color: lightpink;
+    font-style: italic;
+    margin: 0;
+    width: 100%;
+
+}
+
+a {
+    margin-left: 20px;
+    color: black;
+
+}
