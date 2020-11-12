@@ -1,13 +1,18 @@
-.container {
-    background-color: lightpink;
-    font-style: italic;
-    margin: 0;
-    width: 100%;
-
-}
 
 a {
     margin-left: 20px;
-    color: black;
+    color:white;
 
 }
+ nav {
+    background-color: rgb(114, 81, 145);
+    font-style: italic;
+    height: 50px;
+    align-items: center;
+ }
+
+ #login {
+     position: relative;
+     left: 80%;
+ }
+
